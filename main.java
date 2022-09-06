@@ -4,7 +4,7 @@ public class Main{
     Pangolin p = new Pangolin("acd",10);
     System.out.println(p.crier());
 
-    System.out.println("dddd");  
+    System.out.println("troisieme");  
     }
 
 }
