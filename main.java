@@ -3,8 +3,8 @@ public class Main{
         System.out.println("Hello from Main");
     Pangolin p = new Pangolin("acd",10);
     System.out.println(p.crier());
-    System.out.println("cccc");
-    
+
+    System.out.println("dddd");  
     }
 
 }
