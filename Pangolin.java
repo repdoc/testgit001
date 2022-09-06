@@ -6,7 +6,7 @@ public class Pangolin {
 	public Pangolin(String nom, int nbEcailles) {
         this.nom = nom;
         this.setNbEcailles(nbEcailles);
-        System.out.println("deuxieme");
+        System.out.println("troisieme"); 
     }
     
 
